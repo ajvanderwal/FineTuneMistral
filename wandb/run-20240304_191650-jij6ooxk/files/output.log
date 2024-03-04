@@ -1,0 +1,13 @@
+/home/amanda.vanderwal/test_venv/lib/python3.10/site-packages/torch/utils/checkpoint.py:429: UserWarning: torch.utils.checkpoint: please pass in use_reentrant=True or use_reentrant=False explicitly. The default value of use_reentrant will be updated to be False in the future. To maintain current behavior, pass use_reentrant=True. It is recommended that you use use_reentrant=False. Refer to docs for more details on the differences between the two variants.
+  warnings.warn(
+/home/amanda.vanderwal/test_venv/lib/python3.10/site-packages/peft/tuners/lora/bnb.py:272: UserWarning: Merge lora module to 4-bit linear may get different generations due to rounding errors.
+  warnings.warn(
+Will: hey babe, what do you want for dinner tonight?
+Emma:  gah, don't even worry about it tonight
+Will: what do you mean? everything ok?
+Emma: not really, but it's ok, don't worry about cooking though, I'm not hungry
+Will: Well what time will you be home?
+Emma: soon, hopefully
+Will: you sure? Maybe you want me to pick you up?
+Emma: no no it's alright. I'll be home soon, i'll tell you when I get home.
+Will: Alright, love you.

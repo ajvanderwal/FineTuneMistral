@@ -1,0 +1,13 @@
+/home/amanda.vanderwal/test_venv/lib/python3.10/site-packages/torch/utils/checkpoint.py:429: UserWarning: torch.utils.checkpoint: please pass in use_reentrant=True or use_reentrant=False explicitly. The default value of use_reentrant will be updated to be False in the future. To maintain current behavior, pass use_reentrant=True. It is recommended that you use use_reentrant=False. Refer to docs for more details on the differences between the two variants.
+  warnings.warn(
+e976ee50-99ed-4aba-9b6b-9dcd5634d07d:IPyWidgets:8.1.2
+e976ee50-99ed-4aba-9b6b-9dcd5634d07d:IPyWidgets:8.1.2
+events.out.tfevents.1709579384.kneddlald001.2654478.0: 100%|██████████| 6.98k/6.98k [00:00<00:00, 21.2kB/s]
+events.out.tfevents.1709577874.kneddlald001.2648356.0: 100%|██████████| 4.80k/4.80k [00:00<00:00, 13.4kB/s]
+events.out.tfevents.1709565252.kneddlald001.2610100.0: 100%|██████████| 6.45k/6.45k [00:00<00:00, 16.9kB/s]
+tokenizer.model: 100%|██████████| 493k/493k [00:00<00:00, 1.02MB/s] ██| 6.45k/6.45k [00:00<00:00, 24.1kB/s]
+training_args.bin: 100%|██████████| 4.92k/4.92k [00:00<00:00, 31.6kB/s]1.4MB/s].98k [00:00<00:00, 33.6kB/s]
+adapter_model.safetensors:  63%|██████▎   | 17.2M/27.3M [00:00<00:00, 20.7MB/s]
+
+Upload 6 LFS files: 100%|██████████| 6/6 [00:01<00:00,  3.93it/s]
+/home/amanda.vanderwal/test_venv/lib/python3.10/site-packages/peft/tuners/lora/bnb.py:272: UserWarning: Merge lora module to 4-bit linear may get different generations due to rounding errors.
