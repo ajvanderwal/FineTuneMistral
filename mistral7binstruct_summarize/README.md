@@ -20,7 +20,7 @@ should probably proofread and complete it, then remove this comment. -->
 
 This model is a fine-tuned version of [mistralai/Mistral-7B-Instruct-v0.2](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2) on the generator dataset.
 It achieves the following results on the evaluation set:
-- Loss: 1.4605
+- Loss: 1.4704
 
 ## Model description
 
@@ -52,8 +52,8 @@ The following hyperparameters were used during training:
 
 | Training Loss | Epoch | Step | Validation Loss |
 |:-------------:|:-----:|:----:|:---------------:|
-| 1.6642        | 0.22  | 25   | 1.5551          |
-| 1.5616        | 0.43  | 50   | 1.4605          |
+| 1.73          | 0.22  | 25   | 1.5490          |
+| 1.5082        | 0.43  | 50   | 1.4704          |
 
 
 ### Framework versions
